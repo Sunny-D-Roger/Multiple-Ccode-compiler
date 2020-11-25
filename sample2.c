@@ -1,0 +1,1 @@
+#include <stdio.h>int main(){	printf("Sample2 compiled successfully\n");	return 0;}
